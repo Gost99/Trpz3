@@ -1,0 +1,8 @@
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\obj\Debug\netcoreapp3.1\Patterns.Core.csprojAssemblyReference.cache
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\obj\Debug\netcoreapp3.1\Patterns.Core.AssemblyInfoInputs.cache
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\obj\Debug\netcoreapp3.1\Patterns.Core.AssemblyInfo.cs
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\bin\Debug\netcoreapp3.1\Patterns.Core.deps.json
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\bin\Debug\netcoreapp3.1\Patterns.Core.dll
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\bin\Debug\netcoreapp3.1\Patterns.Core.pdb
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\obj\Debug\netcoreapp3.1\Patterns.Core.dll
+D:\STUDY HARD\6 Семестр\трпз\Trpz3\Patterns.Core\obj\Debug\netcoreapp3.1\Patterns.Core.pdb
